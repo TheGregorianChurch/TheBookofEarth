@@ -1,4 +1,4 @@
-# The Book of Greg
+# The Book of Earth
 
 Consider this my demo tape, my rough draft. This will be a book in the future.
 
